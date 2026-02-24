@@ -22,7 +22,3 @@ This project is built with:
 | Backend | Node.js + Express |
 | AI / NLP | Transformers / LangChain / OpenAI |
 | Data | JSON, PDF parsing |
-
----
-
-## 📁 Project Structure
