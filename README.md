@@ -22,3 +22,33 @@ This project is built with:
 | Backend | Node.js + Express |
 | AI / NLP | Transformers / LangChain / OpenAI |
 | Data | JSON, PDF parsing |
+
+---
+
+## 📁 Project Structure
+├── AI Projects
+├── AI Projects
+│ └── legal-ai-backend # Backend API
+├── legal-ai-frontend # React frontend
+├── package.json
+├── package-lock.json
+
+---
+
+## 🔧 Prerequisites
+
+Make sure you have:
+
+✔ Node.js & npm installed  
+✔ Git installed  
+✔ Your own OpenAI API key (optional but recommended)
+
+---
+
+## ⚡ Setup & Run Locally
+
+### 👉 Backend
+
+```bash
+cd "AI Projects/AI Projects/legal-ai-backend"
+npm install
