@@ -128,7 +128,10 @@ build/
 
 ## 👩‍💻 Author
 
-**Inbasri S**
+**Inbasri S** | 
+**Jereni Swetha S** | 
+**Pearlin Rufina** | 
+**Kiran S** | 
 
 ---
 
